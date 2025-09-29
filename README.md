@@ -1,6 +1,7 @@
 <html>
    <head>
     <title> Rating Fruits! </title>
+      <meta name="viewport" content="width=device-width, intial-scale=1.0">
 </head>
 <body style="background-color: #FFEFF1;">
     
@@ -19,6 +20,7 @@
         }
       .fruit-section {
         text-align: center;
+        margin: 5px 10px;
         font-size: 20px;
         }
       .fruit-section h1 {
