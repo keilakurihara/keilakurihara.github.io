@@ -44,7 +44,7 @@
 
    <h1> What Fruit Are You? </h1>
    <p> Take this fun little quiz below to find more about your inner self through fruit! (I'm a kiwi) </p>
-   <a href="https://www.buzzfeed.com/brokenlightbulb/fruit-personality-quiz"> </a>
+   <a href="https://www.buzzfeed.com/brokenlightbulb/fruit-personality-quiz" target="_blank"> Take the Fruit Personality Quiz! </a>
 
     </div>
   </body>
