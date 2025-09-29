@@ -11,7 +11,7 @@
         color: white;
         padding: 100px 100px;
         text-align: center;
-        font-size: 100px;
+        font-size: 70px;
         }
       .fruit-image {
         width: 500px;
