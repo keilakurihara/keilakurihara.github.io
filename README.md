@@ -19,8 +19,7 @@
         }
       .fruit-section {
         text-align: center;
-        margin: 40px 200px;
-        font-size: 30px;
+        font-size: 20px;
         }
       .fruit-section h1 {
         font-size: 50px;
